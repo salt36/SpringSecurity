@@ -1,0 +1,27 @@
+body{
+    background-color: #010518;
+}
+
+.card {
+    padding: 10px;
+    background: #272E48;
+    border-radius: 5px;
+    border: 0;
+    height: 100%;
+}
+.form-control {
+    background: #1A233A;
+    border: none;
+    padding: 10px;
+}
+.form-group{
+    margin-bottom: 5px;
+}
+.form-control:focus {
+    background: #1a233a;
+    color: #bcc5ea;
+}
+
+label, p,input[type="text"]{
+    color: #bcc5ea;
+}
